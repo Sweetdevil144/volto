@@ -156,7 +156,7 @@
     "draft-js-plugins-editor": "2.1.1",
     "draft-js-plugins-utils": "2.0.3",
     "draftjs-filters": "2.3.0",
-    "express": "4.17.3",
+    "express": "4.19.2",
     "filesize": "6",
     "github-slugger": "1.4.0",
     "history": "4.10.1",
